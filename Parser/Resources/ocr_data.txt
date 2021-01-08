@@ -1,0 +1,10 @@
+An airplane travels a distance of 500 km against the wind in one hour and 45
+minutes. Traveling the same distance with the wind, the airplane consumed one
+hour and 15 minutes. Find the velocity ofthe wind.
+A. 42.86 kph C. 71.43 kph
+B. 57.14 kph D. 34.29 kph
+A tank can he filled by an inlet pipe in 6 hours and can be emptied by an outlet
+in 12 hours. How much time needed to fill the tank if both the inlet and outlet
+pipes are open.
+A. 12 hours C. 9 hours
+B. 18 hours D. 6 hours
