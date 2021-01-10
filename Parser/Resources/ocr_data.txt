@@ -1,6 +1,6 @@
 An airplane travels a distance of 500 km against the wind in one hour and 45
 minutes. Traveling the same distance with the wind, the airplane consumed one
-hour and 15 minutes. Find the velocity ofthe wind.
+hour and 15 minutes. Find the velocity of the wind.
 A. 42.86 kph C. 71.43 kph
 B. 57.14 kph D. 34.29 kph
 A tank can he filled by an inlet pipe in 6 hours and can be emptied by an outlet
@@ -8,3 +8,22 @@ in 12 hours. How much time needed to fill the tank if both the inlet and outlet
 pipes are open.
 A. 12 hours C. 9 hours
 B. 18 hours D. 6 hours
+A flagpole and a tower stands 36 meters on a horizontal plane. A person
+standing successively at their bases observes that the angle of elevation of the
+top of the tower is twice that of the pole. but at a point midway between their
+bases the angles of elevation are complementary. Find the height of the tower?
+A. 38 m C. 32 m
+B. 45 m D. 27 m
+A 40-m high tower stands vertically on a hillside (slapping ground) which makes
+an angle of 18° with the horizontal. A tree also stands vertically up the hill from
+the tower. An observer on the top of the tower ?nds the angle ofdepression of
+the top of the wee to be 28° and the bottom of the tree to be 40°. Determine the
+height of the tree.
+A. 12.58m C. 11.35 m
+B. 10.56 m D. 8.75 m
+The top of a tower is sighted from point A and found to have an angle of elevation
+of 26°. When sighted at point B that is 300 m closer to the tower, the angle of
+elevation is 56°. Points A and B are on the same horizontal plane with the base
+of the tower. What is the height of the tower? '
+A. 218 m C. 175 m
+B. 197 m D. 205 m
