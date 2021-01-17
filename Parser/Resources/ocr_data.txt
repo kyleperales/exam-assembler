@@ -1,29 +1,81 @@
-An airplane travels a distance of 500 km against the wind in one hour and 45
-minutes. Traveling the same distance with the wind, the airplane consumed one
-hour and 15 minutes. Find the velocity of the wind.
+An airplane travels a distance of 500 km against the wind in one hour and 45 minutes. Traveling the same distance with the wind, the airplane consumed one hour and 15 minutes. Find the velocity of the wind.
 A. 42.86 kph C. 71.43 kph
 B. 57.14 kph D. 34.29 kph
-A tank can he filled by an inlet pipe in 6 hours and can be emptied by an outlet
-in 12 hours. How much time needed to fill the tank if both the inlet and outlet
-pipes are open.
+A tank can he filled by an inlet pipe in 6 hours and can be emptied by an outletin 12 hours. How much time needed to fill the tank if both the inlet and outletpipes are open.
 A. 12 hours C. 9 hours
 B. 18 hours D. 6 hours
-A flagpole and a tower stands 36 meters on a horizontal plane. A person
-standing successively at their bases observes that the angle of elevation of the
-top of the tower is twice that of the pole. but at a point midway between their
-bases the angles of elevation are complementary. Find the height of the tower?
+A flagpole and a tower stands 36 meters on a horizontal plane. A person standing successively at their bases observes that the angle of elevation of the top of the tower is twice that of the pole. but at a point midway between their bases the angles of elevation are complementary. Find the height of the tower?
 A. 38 m C. 32 m
 B. 45 m D. 27 m
-A 40-m high tower stands vertically on a hillside (slapping ground) which makes
-an angle of 18� with the horizontal. A tree also stands vertically up the hill from
-the tower. An observer on the top of the tower ?nds the angle ofdepression of
-the top of the wee to be 28� and the bottom of the tree to be 40�. Determine the
-height of the tree.
+A 40-m high tower stands vertically on a hillside (slapping ground) which makes an angle of 18� with the horizontal. A tree also stands vertically up the hill from the tower. An observer on the top of the tower ?nds the angle ofdepression of the top of the wee to be 28� and the bottom of the tree to be 40�. Determine the height of the tree.
 A. 12.58m C. 11.35 m
 B. 10.56 m D. 8.75 m
-The top of a tower is sighted from point A and found to have an angle of elevation
-of 26�. When sighted at point B that is 300 m closer to the tower, the angle of
-elevation is 56�. Points A and B are on the same horizontal plane with the base
-of the tower. What is the height of the tower? '
+The top of a tower is sighted from point A and found to have an angle of elevation of 26�. When sighted at point B that is 300 m closer to the tower, the angle of elevation is 56�. Points A and B are on the same horizontal plane with the base of the tower. What is the height of the tower?
 A. 218 m C. 175 m
 B. 197 m D. 205 m
+Points A, B and C are in the horizontal circular plane where AB is the diameter equal to 24 m. The top of the pole standing at point A is sighted at B and C has angles of elevation equal to 20° and 30°, respectively. Point C is along the circumference of the circle. Find the distance BC.
+A. 15.13 m C. 18.63 m
+B. 16278 m D. 17.44 m
+The angle of elevation of the top of the venjcal tower from points A and B are 25° and 50°, respectively. The points A and B are 300 m apart and onthe same horizontal plane with the foot of the tower. The horizontal angle subtended by A and B at the foot of the tower is 90°. Find the height of the tower.
+A. 140.54 m C. 112.55 m
+B. 128.65 m D. 130.27 m
+Determine the area of a sector of a circle if its perimeter is 19 inches and radius is 6 inches.
+A. 21 in² C. 31.5 in²
+B. 22.5 in² D. 27 in²
+Two circles are tangent to a third circle internally and are tangent to each other externally. If the distances between their centers are 10 cm, 7 cm and 5 cm, respectively, compute the radius of the biggest circle.
+A. 11 C. 8
+B. 12 D. 6
+The length of common chord of two intersecting circles is 48 cm. The radius of one of the circles is 25 cm. If the distance between their centers is 39 cm, what is the diameter of the other circle?
+A. 100 C. 40
+B. 60 D. 80
+A sector of a circle of radius 4 feet has a central angle of 30 degrees. A line connecting one of the endpoints of the arc to the midpoint of the opposite edge is then drawn. Determine the area between the line, the arc and the edge adjacent to the drawn line and arc.
+A. 395.19 in² C. 459.19 in²
+B. 335.19 in² D. 315.19 in²
+A quadrilateral ABCD is inscribed in a semi-circle with side AD as its diameter. If point 0 is the center of the semi—circle, determine the angle DCO if angle CAD is 39°.
+A. 51° C. 46
+B. 55 D. 59
+Two perpendicular chords both 5 cm from the center ofa circle divide the circle into four parts lf the radius of the circle is 13 cm. Compute the area of the smallest part.
+A. 38 cm² C. 28 cm²
+B. 35 cm² D. 31 cm²
+A square is inscribed in a semi-circle having a radius of 15 m. The base of the square is on the base diameter of the semi~circle. Find the area of an octagon inscribed in the square.
+A. 96.57 m² C. 149.12 m²
+B. 132.87 m² D. 118.6 m²
+Find the area of quadrilateral ABCD inscribed in a circle where AB = 8 cm, BC = 15 cm, CD = 12 cm and DA = 18 cm.
+A. 161.93 cm² C. 160.99 cm²
+B. 173.6 cm² D. 172.52 cm²
+A quadrilateral inscribed in a circle has sides of lengths 2 in, 4 in, 6 in and 8.224 in. Determine the area of the quadrilateral.
+A. 20.12 in² C. 19.87 in²
+B. 19.62 in² D. 20.54 in²
+Points A, B, C, D and E are in the periphery of a circle. If arc BAC is 340° and arcs AB, BC, and CDare equal, find the angle DEA.
+A. 45° C. 30°
+B. 90° D. 60°
+Points A, P and Q are in the periphery of a circle whose center is O. The ratio of arcs AP to PQ is 3 to 4. lfangle POA is 15°, determine the angle PQD.
+A. 40° C. 70°
+B. 80° D. 50°
+Quadrilateral ABCD is inscribed in a 25-cm—diameter circle with side AB as diameter. Angle ACD is 30° and CDB is 20°. Determine the length of side BC.
+A. 7.15 C. 8.55
+B. 7.73 D. 8.21
+Quadrilateral ABCD is inscribed in a 25-cm-diameter circle with side AB as diameter. If angle BDC is 15° and AD is 7 cm, determine the length of side DC.
+A. 19.52 C. 21.37
+B. 18.88 D. 20.59
+A regular tetrahedron has an edge 4 feet long. Determine the volume.
+A. 8.26 ft C. 12.75 ft3
+B. 7.54 ft; D. ll.88 ft3
+A cone was formed by rolling a thin sheet of metal in the form of a sector of a circle 75 cm in diameter with a central angle of 3O°. Find the radius of the cone in mm.
+A. 56.35 C. 31.25
+B. 18.75 D. 42.52
+Determine the base diameter of an open top right circular cylinder if its total surface area is 49.48 square feet and its height is 1.5 times its base diameter.
+A. 48 in C. 42 in
+B. 36 in D. 30 in
+A frustum ofa sphere has base diameters of 20 cm and 12 cm and thickness of 3.6 cm. What is the volume of the frustum?
+A. 744.6 cu. cm. C. 752.9 cu. cm.
+B. 793.5 cu. cm. D. 789.5 cu.cm.
+Find the volume of a spherical pyramid having a spherical excess of 28° and a radius of 9.2 cm.
+A. 141.46 cm3 C. 126.85 cm3
+B. 380.54 cm3 D. 248.28 cm3
+The exponential form of the complex number 5 + 12i is in the form of rexi Determine the value of x.
+A. 2.521 C. 0,098
+B. 1.176 ' D. 1.683
+From the given equation (x + yi)(1 — 2i) = 7 - 4i, find the value of x + y.
+A. -1 C. 2
+B. 3 D. 5

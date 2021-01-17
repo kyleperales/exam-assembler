@@ -19,16 +19,17 @@ question = ''
 # Initial call to print 0% progress
 printProgressBar(0, l, prefix = 'Progress:', suffix = 'Complete', length = 50)
 for i, item in enumerate(items):
+    
     if item[0] == 'A' and item[1] == '.':
         Cindex = item.find('C.')
         #get A. option value
-        Avalue = item[0:Cindex]
+        Avalue = item[2:Cindex]
         key = 'B' + str(tries)
         ws[key] = Avalue
 
         #get C. option value
         endIndex = len(item)
-        Cvalue = item[Cindex:endIndex]
+        Cvalue = item[Cindex+2:endIndex]
         key = 'D' + str(tries)
         ws[key] = Cvalue
         
@@ -41,13 +42,13 @@ for i, item in enumerate(items):
         
         Dindex = item.find('D.')
         #get B. option value
-        Bvalue = item[0:Dindex]
+        Bvalue = item[2:Dindex]
         key = 'C' + str(tries)
         ws[key] = Bvalue
 
         #get D. option value
         endIndex = len(item)
-        Dvalue = item[Dindex:endIndex]
+        Dvalue = item[Dindex+2:endIndex]
         key = 'E' + str(tries)
         ws[key] = Dvalue
         
